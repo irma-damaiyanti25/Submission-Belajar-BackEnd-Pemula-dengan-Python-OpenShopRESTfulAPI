@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+*.log
+local_settings.py
+db.sqlite3-journal
+
+# Virtual Environment
+venv/
+env/
+.venv/
+pip-wheel-metadata/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Python Version Manager
+.python-version
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Environment Variables
+.env
